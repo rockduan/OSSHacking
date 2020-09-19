@@ -1,0 +1,23 @@
+{
+  "summary": {
+    "title": "ddsfsaf",
+    "owner": "sdfasf",
+    "description": "sdfsf"
+  },
+  "detail": {
+    "contributors": [
+      {
+        "name": "sdaff"
+      }
+    ],
+    "diagrams": [
+      {
+        "title": "asdfasff",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "diagramType": "STRIDE",
+        "id": 0
+      }
+    ],
+    "reviewer": "asdf"
+  }
+}
